@@ -1,0 +1,9 @@
+/java-ee/target/
+/spring/target
+*.log
+
+### IntelliJ IDEA ###
+/java-ee/.idea/
+/spring/.idea/
+*.iws
+*.iml
