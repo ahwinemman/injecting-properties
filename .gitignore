@@ -5,5 +5,6 @@
 ### IntelliJ IDEA ###
 /java-ee/.idea/
 /spring/.idea/
+/.idea
 *.iws
 *.iml
