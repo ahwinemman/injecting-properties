@@ -4,6 +4,7 @@ MAINTAINER emmanuelthecoolest@rocketmail.com
 
 ADD target/javaee-injectprops.war /opt/jboss/wildfly/standalone/deployments/javaee-injectprops.war
 
-CMD [java -jar ]
+RUN echo "container up"
 
 EXPOSE 8080
+
